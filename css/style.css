@@ -14,13 +14,13 @@ li {
 
 body {
   font-family: "Source Code Pro", monospace;
-  background: url("../img/bg20.jpg") no-repeat top center;
+  background: url("../img/bg23.jpg") no-repeat top center;
   background-attachment: fixed;
   background-size: cover;
   display: grid;
   align-items: center;
   justify-items: center;
-  height: 100vh;
+  height: 80vh;
   color: #aeaeae;
 }
 
